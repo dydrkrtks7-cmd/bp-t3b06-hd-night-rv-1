@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dangsan-coin-karaoke-note.banpo-massage-review.xyz/sitemap.xml
+Sitemap: https://dangsan-coin-karaoke-note.banpo-massage-review.xyz/sitemap-pages.xml
